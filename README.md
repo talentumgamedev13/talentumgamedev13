@@ -4,6 +4,6 @@
 --
 ⚡ I have worked on:
 --
-- [**Seguridad Vial 3D**](https://github.com/TalentumLAB/sapere-aude-unity) _large dev_
+- [**Seguridad Vial 3D**](https://github.com/TalentumLAB/SeguridadVial3D) _large dev_
 - [**Universum**](https://github.com/TalentumLAB/Universum) _small dev_
-- [**Sapere**](https://github.com/TalentumLAB/SeguridadVial3D) _small dev_
+- [**Sapere**](https://github.com/TalentumLAB/sapere-aude-unity) _small dev_
